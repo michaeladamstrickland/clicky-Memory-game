@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Cartman",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c4/Eric-cartman.png/revision/latest/scale-to-width-down/150?cb=20180718082504",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Kenny",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/6/6f/KennyMcCormick.png/revision/latest/scale-to-width-down/111?cb=20160409020502",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Kyle",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest/scale-to-width-down/121?cb=20190411033301",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Stan",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c6/Stan-marsh-0.png/revision/latest/scale-to-width-down/96?cb=20170721155858",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Butters",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/0/06/ButtersStotch.png/revision/latest/scale-to-width-down/120?cb=20190411032405",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Herbert Garrison",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f4/President_Garrison.png/revision/latest/scale-to-width-down/73?cb=20180210050625",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Randy",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f2/Randy_transparent_cockmagic.png/revision/latest/scale-to-width-down/77?cb=20160402120457",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Dr. Mephesto",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/6/6c/Doctor.png/revision/latest/scale-to-width-down/63?cb=20180917062523",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Chef",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/3/38/JeromeChef.png/revision/latest/scale-to-width-down/74?cb=20160402120214",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Pip",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/a/a7/Pip_Pirrip.png/revision/latest/scale-to-width-down/72?cb=20180430172954",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Mr. Mackey",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/5/58/Mr_Mackey_New.png/revision/latest/scale-to-width-down/42?cb=20160402100931",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Towelie",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/0/07/Towelie-0.png/revision/latest/scale-to-width-down/74?cb=20170604100720",
+    "count": 0
+  }
+]
